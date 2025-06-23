@@ -1,8 +1,5 @@
 import logo from './img/rick-morty.png';
 import './App.css';
-import Welcome from './components/Welcome';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Contact from './components/Contact';
 import { useState } from 'react';
 import Characters from './components/Characters';
 
